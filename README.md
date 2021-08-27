@@ -13,6 +13,8 @@
 
 ### 1.解压文件
 ```shell script
+  cp beego_test.tar.gz /home/pgc/
+  cd /home/pgc/
   tar -xzvf beego_test.tar.gz
 ```
 
