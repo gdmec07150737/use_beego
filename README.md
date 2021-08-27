@@ -47,5 +47,5 @@ http://localhost:6066/
 )
 
 [浏览器访问http://localhost:8088/healthcheck](
-http://localhost:8088/
+http://localhost:8088/healthcheck
 )
